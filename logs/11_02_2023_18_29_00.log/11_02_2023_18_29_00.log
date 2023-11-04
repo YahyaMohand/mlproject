@@ -1,0 +1,7 @@
+[ 2023-11-02 18:29:00,718 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2023-11-02 18:29:00,725 ] 96 werkzeug - INFO -  * Debugger PIN: 107-638-266
+[ 2023-11-02 18:29:09,734 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Nov/2023 18:29:09] "GET /predict HTTP/1.1" 200 -
+[ 2023-11-02 18:29:10,312 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Nov/2023 18:29:10] "GET /predict HTTP/1.1" 200 -
+[ 2023-11-02 18:29:10,658 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Nov/2023 18:29:10] "GET /predict HTTP/1.1" 200 -
+[ 2023-11-02 18:29:31,265 ] 96 werkzeug - INFO - 127.0.0.1 - - [02/Nov/2023 18:29:31] "POST /predict HTTP/1.1" 200 -
+[ 2023-11-02 18:30:07,778 ] 96 werkzeug - INFO -  * Detected change in '/Users/yahyamohnd/Desktop/MLOps_Project/mlproject/app.py', reloading
